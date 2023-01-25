@@ -24,5 +24,6 @@ If you want to see my university GitHub profile, click <a href="https://github.c
 ### Let's talk 🤜🤛
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ramón-alejandro-aguirre-romero-26ab26256/)
+[![Gmail](https://img.shields.io/badge/ramonlexaguirre@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)]()
 
 ### My Certifications 🏅
