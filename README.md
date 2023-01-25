@@ -12,7 +12,7 @@ If you want to see my university GitHub profile, click <a href="https://github.c
 
 ### Skills 🤔
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()[![HTML](https://img.shields.io/badge/html-E44D26?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()[![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)]()[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 ### Future skills to learn ✍️
 
