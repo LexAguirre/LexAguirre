@@ -16,6 +16,8 @@ If you want to see my university GitHub profile, click <a href="https://github.c
 
 ### Future skills to learn ✍️
 
+[![R](https://img.shields.io/badge/R-F7DF1E?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
+
 ### Let's talk 🤜🤛
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ramón-alejandro-aguirre-romero-26ab26256/)
