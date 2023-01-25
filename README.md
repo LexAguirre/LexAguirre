@@ -12,6 +12,8 @@ If you want to see my university GitHub profile, click <a href="https://github.c
 
 ### Skills 🤔
 
+### Future skills to learn ✍️
+
 ### Let's talk 🤜🤛
 
 ### My Certifications 🏅
