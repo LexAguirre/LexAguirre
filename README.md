@@ -1,4 +1,4 @@
-# Hello there! ✌🏻
+# Hello there! ✌️
 
 ![Ramon Aguirre](https://readme-typing-svg.herokuapp.com/?font=Inter&color=FF3F44&size=30&weight=700&lines=Call+me+Ramon+Aguirre;RayLex)
 
@@ -11,6 +11,8 @@ I constantly use web development technologies but now I'm learning about data sc
 If you want to see my university GitHub profile, click <a href="https://github.com/RayLexAguirre">here</a>
 
 ### Skills 🤔
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 ### Future skills to learn ✍️
 
