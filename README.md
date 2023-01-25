@@ -4,7 +4,7 @@
 
 ## I'm a software engineering student.
 
-My name is Ramon Aguirre I live in Mexico, Colima and I study at the University of Colima I'm studying the sixth semester of software engineering.
+My name is Ramon Aguirre I live in Colima, Mexico and I study at the University of Colima I'm studying the sixth semester of software engineering.
 
 I constantly use web development technologies but now I'm learning about data science with python so that in the future I can become a "data scientist with python", my objective is to create machine learning models and artificial intelligence.
 
