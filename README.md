@@ -8,6 +8,8 @@ My name is Ramon Aguirre I live in Mexico, Colima and I study at the University 
 
 I constantly use web development technologies but now I'm learning about data science with python so that in the future I can become a "data scientist with python", my objective is to create machine learning models and artificial intelligence.
 
+If you want to see my university GitHub profile, click <a href="https://github.com/RayLexAguirre">here</a>
+
 ### Skills 🤔
 
 ### Let's talk 🤜🤛
