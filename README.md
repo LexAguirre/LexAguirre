@@ -12,7 +12,9 @@ If you want to see my university GitHub profile, click <a href="https://github.c
 
 ### Skills 🤔
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 ### Future skills to learn ✍️
 
@@ -27,3 +29,5 @@ If you want to see my university GitHub profile, click <a href="https://github.c
 [![Gmail](https://img.shields.io/badge/ramonlexaguirre@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)]()
 
 ### My Certifications 🏅
+
+[![Python](https://img.shields.io/badge/Curso_de_Fundamentos_de_Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
