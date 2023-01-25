@@ -16,7 +16,7 @@ If you want to see my university GitHub profile, click <a href="https://github.c
 
 ### Future skills to learn ✍️
 
-[![R](https://img.shields.io/badge/R-F7DF1E?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
+[![R](https://img.shields.io/badge/R-1D65B9?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
 
 ### Let's talk 🤜🤛
 
