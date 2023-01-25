@@ -30,4 +30,4 @@ If you want to see my university GitHub profile, click <a href="https://github.c
 
 ### My Certifications 🏅
 
-[![Python](https://img.shields.io/badge/Curso_de_Fundamentos_de_Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Curso_de_Fundamentos_de_Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://platzi.com/p/RayLex_Aguirre/curso/4227-python/diploma/detalle/)
