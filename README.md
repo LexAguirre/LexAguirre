@@ -1,8 +1,6 @@
 # Hello there! ✌️
 
-<p align=center> 
 ![Ramon Aguirre](https://readme-typing-svg.herokuapp.com/?font=Inter&color=FF3F44&size=30&weight=700&lines=Call+me+Ramon+Aguirre;RayLex)
-</p>
 
 ## I'm a software engineering student.
 
