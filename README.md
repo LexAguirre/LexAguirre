@@ -25,7 +25,7 @@ I constantly use web development technologies but now I'm learning about data sc
 
 ### Let's talk 🤜🤛
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/ramón-alejandro-aguirre-romero-26ab26256/](https://www.linkedin.com/in/raylex-aguirre))
+[![LinkedIn]([https://www.linkedin.com/in/ramón-alejandro-aguirre-romero-26ab26256/](https://www.linkedin.com/in/raylex-aguirre))]
 [![Gmail](https://img.shields.io/badge/ramonlexaguirre@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)]()
 
 ### My Certifications 🏅
