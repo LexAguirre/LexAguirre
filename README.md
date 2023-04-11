@@ -37,7 +37,7 @@ I constantly use web development technologies but now I'm learning about data sc
 ### GitHub Stats 📊
 
 <a href="https://github.com/lexaguirre/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexaguirre&langs_count=4)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lexaguirre&hide=issues)" />
 </a>
 <a href="https://github.com/lexaguirre/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexaguirre&layout=compact" />
