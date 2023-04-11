@@ -31,7 +31,8 @@ If you want to see my university GitHub profile, click <a href="https://github.c
 
 ### My Certifications 🏅
 
-[![Python](https://img.shields.io/badge/Curso_de_Fundamentos_de_Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://platzi.com/p/RayLex_Aguirre/curso/4227-python/diploma/detalle/)
+[![Python](https://img.shields.io/badge/Fundamentos_de_Datos-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://platzi.com/p/RayLex_Aguirre/ruta/8263-fundamentos-data/diploma/detalle/)
+[![Python](https://img.shields.io/badge/Comprehensions_Funciones_y_Manejo_de_Errores-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://platzi.com/p/RayLex_Aguirre/curso/4260-python-funciones/diploma/detalle/)
 
 ### GitHub Stats 📊
 
