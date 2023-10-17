@@ -17,12 +17,12 @@ I constantly use web development technologies but now I'm learning about data sc
 [![C](https://img.shields.io/badge/C-00453C?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Jupiter](https://img.shields.io/badge/Jupiter-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ### Future skills to learn ✍️
 
 [![R](https://img.shields.io/badge/R-1D65B9?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++_for_IoT-00453C?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ### Let's talk 🤜🤛
 
