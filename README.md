@@ -1,28 +1,24 @@
 # Hello there! ✌️
 
 ![Ramon Aguirre](https://readme-typing-svg.herokuapp.com/?font=Inter&color=FF3F44&size=30&weight=700&lines=I'm+Ramon+Aguirre;My+nickname+is+RayLex)
-
-## I'm a Machine learning engineer
-
-My name is Ramon Aguirre I live in Phoenix, Arizona and I study at the University of Colima I'm studying the last semester of software engineering.
-
-I constantly use web development technologies but now I'm learning about data science with python so that in the future I can become a "data scientist with python", my objective is to create machine learning models and artificial intelligence.
-
-> If you want to see my university GitHub profile, click <a href="https://github.com/RayLexAguirre">here</a>
-
-### Skills 🤔
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![C](https://img.shields.io/badge/C-00453C?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Jupiter](https://img.shields.io/badge/Jupiter-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-
-### Future skills to learn ✍️
-
-[![R](https://img.shields.io/badge/R-1D65B9?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
-[![C++](https://img.shields.io/badge/C++_for_IoT-00453C?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)]()
+  
+## About Me  
+My name is Ramon Aguirre I live in Phoenix, Arizona and I'm a passionate Machine Learning Engineer with extensive experience in developing and deploying machine learning models. I specialize in leveraging cutting-edge technologies from OpenAI, Azure, and Google Cloud to build scalable and efficient solutions.  
+  
+### 🌟 Skills & Expertise
+   
+- **Machine Learning:** Highly proficient in both supervised and unsupervised learning techniques, deep learning methodologies, and model optimization strategies to enhance performance and accuracy.  
+- **OpenAI:** Experienced in leveraging OpenAI's powerful models and APIs for various tasks, including natural language processing and generation, audio transcription, image analysis, and prompt engineering.
+- **Multimodal AI:** Skilled in utilizing Vertex AI models that seamlessly analyze and integrate data across text, image, audio, and video modalities. 
+- **Computer Vision:** Expertise in managing, searching, and cleaning image datasets, as well as training and deploying models using YOLO (You Only Look Once) through platforms like Roboflow and Azure Vision Studio.  
+- **Cloud Platforms:** Proficient in deploying robust machine learning solutions on Azure and Google Cloud, encompassing data storage, processing, and model serving capabilities.  
+- **Django Development:** Successfully developed a comprehensive project utilizing Django, integrating multiple applications and APIs to create a cohesive platform.  
+- **Frameworks & Libraries:** Experienced with a variety of tools and libraries including Pandas, Roboflow, Scikit-learn, Hugging Face Transformers, and Langchain, enabling efficient data manipulation and model development.  
+  
+### 🔧 Projects  
+- **Computer vision engenieer at the University of Colima:** ...
+- **Machine learning engenieer at Smarttie:** ...  
+- **Azure Cognitive Services Support Enganieer at Microsoft though Sonata:** ...  
 
 ### Let's talk 🤜🤛
 
@@ -42,3 +38,5 @@ I constantly use web development technologies but now I'm learning about data sc
 <a href="https://github.com/lexaguirre/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexaguirre&layout=compact" />
 </a>
+
+> If you want to see my university GitHub profile, click <a href="https://github.com/RayLexAguirre">here</a>
