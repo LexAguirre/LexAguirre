@@ -2,9 +2,9 @@
 
 ![Ramon Aguirre](https://readme-typing-svg.herokuapp.com/?font=Inter&color=FF3F44&size=30&weight=700&lines=I'm+Ramon+Aguirre;My+nickname+is+RayLex)
 
-## I'm a software engineering student.
+## I'm a Machine learning engineer
 
-My name is Ramon Aguirre I live in Colima, Mexico and I study at the University of Colima I'm studying the last semester of software engineering.
+My name is Ramon Aguirre I live in Phoenix, Arizona and I study at the University of Colima I'm studying the last semester of software engineering.
 
 I constantly use web development technologies but now I'm learning about data science with python so that in the future I can become a "data scientist with python", my objective is to create machine learning models and artificial intelligence.
 
