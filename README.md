@@ -1,6 +1,8 @@
 # 👋 Hello there!
 
-![Ramon Aguirre](https://readme-typing-svg.herokuapp.com/?font=Inter&color=FF3F44&size=30&weight=700&lines=I'm+Ramon+Aguirre;aka+RayLex)
+![Ramon Aguirre](https://readme-typing-svg.herokuapp.com/?font=Inter&color=27A641&size=30&weight=700&lines=I'm+Ramon+Aguirre;aka+RayLex)
+
+[![Ramon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LexAguirre&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 👨‍💻 About Me
 
@@ -45,6 +47,12 @@ I'm **Ramon Alejandro Aguirre Romero**, a Software Engineer and Machine Learning
 [![Python](https://img.shields.io/badge/Data_Science_%26_ML_with_Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://platzi.com/p/RayLex_Aguirre/ruta/8263-fundamentos-data/diploma/detalle/)  
 [![Google Cloud](https://img.shields.io/badge/Advanced_ML_on_Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()  
 [![Azure](https://img.shields.io/badge/Azure_OpenAI_Specialist-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=101010)]()
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/lexaguirre)
 
 ---
 
