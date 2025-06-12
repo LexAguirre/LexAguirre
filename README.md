@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ramon Alejandro Aguirre Romero**, a Software Engineer and Machine Learning Specialist based in **Phoenix, Arizona** 🇺🇸. I have a strong focus on **LLMs**, **multimodal AI**, and **computer vision**, with a passion for building scalable AI solutions that create meaningful impact. I thrive on learning from others and love crafting elegant backend systems and intelligent agents.
+I'm **Ramon Alejandro Aguirre Romero**, a Software Engineer and Machine Learning Specialist based in **Phoenix, Arizona, US**. I have a strong focus on **LLMs**, **multimodal AI**, and **computer vision**, with a passion for building scalable AI solutions that create meaningful impact. I thrive on learning from others and love crafting elegant backend systems and intelligent agents.
 
 - 🧠 Currently leading LLM and AI initiatives at **Smarttie**
 - 🛠️ Former Azure Cognitive Services Support Engineer at **Microsoft (via Sonata)**
